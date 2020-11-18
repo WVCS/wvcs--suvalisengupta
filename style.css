@@ -10,7 +10,7 @@ ul {
   width: 100%;
   left: 0;
   overflow: hidden;
-  background-color: #999;
+  background-color: #000;
 }
 
 li {
@@ -34,11 +34,11 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #999;
+  background-color: #000;
 }
 
  h1 {
-  color: purple;
+  color: white;
   text-align: center;
 }
 
